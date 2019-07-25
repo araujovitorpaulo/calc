@@ -80,6 +80,6 @@ Criada a partir da linguagem Python
                 print("Operador inválido")
 
             leave = input("Você deseja sair?(s/n)")
-            if leave == "s":
+            if leave == "s" or "S":
                 exit = True
                 print("Saindo...")
