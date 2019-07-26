@@ -10,7 +10,7 @@ Criada a partir da linguagem Python
         while exit == False:
             num1 = input("Type the first number: ")
             num1 = float(num1)
-            op = input("What operator do you want do use (+, -, *, /, **): ")
+            op = input("What operator do you want to use  (+, -, *, /, **)?")
             num2 = input("Type the second number: ")
             num2 = float(num2)
 
@@ -46,11 +46,11 @@ Criada a partir da linguagem Python
                 print("Exiting now...")
 
     elif lang == "pt":
-        print("Bem vindo à Calculadora do Paulo Vítor versão 1.0")
+        print("Bem vindo à Calculadora do Paulo Vítor v1.0")
         while exit == False:
             num1 = input("Digite o primeiro número: ")
             num1 = float(num1)
-            op = input("Qual operador você deseja usar? (+, -, *, /, **): ")
+            op = input("Qual operador você deseja usar (+, -, *, /, **)?  ")
             num2 = input("Digite o segundo número: ")
             num2 = float(num2)
 
