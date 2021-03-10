@@ -1,4 +1,4 @@
-# python_basics_calc
+# calc
 Calculadora com operações básicas.
 Criada a partir da linguagem Python
 
