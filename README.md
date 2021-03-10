@@ -1,6 +1,5 @@
 # calc
 Calculadora com operações básicas.
-Criada a partir da linguagem Python
 
     exit = False
     print("---------------------------------------------")
